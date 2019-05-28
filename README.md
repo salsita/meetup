@@ -6,3 +6,9 @@ An informative and fun-filled evening with advanced lectures by some of our top 
 * So What’s Wrong with Mobile Web Apps, Anyway? by Matthew Gertner, CEO & Founder of Salsita
 * Putting the "Progressive" in Progressive Web App By Lukáš Kopenec, Senior Full-stack Developer
 * Navigating the Mobile Build Pipeline by Jan Kotrlík, Senior DevOps Engineer
+
+**Hot React Hooks & Ice Cold Beer**
+* Data normalization & memoized denormalization by Branislav Holý, Full Stack Developer
+* How to develop testable apps & why it matters by Pavel Přibyl, Head of Salsita’s QA team
+* Hot React Hooks by Tomáš Weiss, Senior Architect and JavaScript enthusiast
+
