@@ -7,7 +7,7 @@ An informative and fun-filled evening with advanced lectures by some of our top 
 * Putting the "Progressive" in Progressive Web App By Lukáš Kopenec, Senior Full-stack Developer
 * Navigating the Mobile Build Pipeline by Jan Kotrlík, Senior DevOps Engineer
 
-**Hot React Hooks & Ice Cold Beer**
+**Hot React Hooks & Ice Cold Beer** - February 5, 2019
 * Data normalization & memoized denormalization by Branislav Holý, Full Stack Developer
 * How to develop testable apps & why it matters by Pavel Přibyl, Head of Salsita’s QA team
 * Hot React Hooks by Tomáš Weiss, Senior Architect and JavaScript enthusiast
