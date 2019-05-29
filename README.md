@@ -1,6 +1,6 @@
 # Salsita Meetup Events
 
-An informative and fun-filled evenings with advanced lectures by some of our top engineers. The evenings are usualy loaded with opportunities for both beginner and experienced developers to learn and network with others who share the same passion for JavaScript, web and mobile app development, and everything related.
+Informative and fun-filled evenings with advanced lectures by some of our top engineers. The evenings are packed with opportunities for both beginning and experienced developers to learn and network with others who share the same passion for JavaScript, web and mobile app development, and technology in general.
 
 ### [JavaScript and the Future of Mobile App Development - May 14, 2019](https://www.meetup.com/Meetup-Salsita/events/260537713/)  
 * [So What’s Wrong with Mobile Web Apps, Anyway?](https://blog.salsitasoft.com/whats-wrong-with-mobile-apps-anyway/?utm_source=newsletter&utm_medium=github&utm_campaign=no-campaign&utm_term=demography-conversion&utm_content=wrong-mobile) by Matthew Gertner, CEO & Founder of Salsita
